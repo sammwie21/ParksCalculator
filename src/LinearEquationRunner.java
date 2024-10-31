@@ -1,6 +1,6 @@
 public class LinearEquationRunner {
     public static void main(String[] args) {
-        LinearEquationApp l1 = new LinearEquationApp();
+        LinearEquationLogic l1 = new LinearEquationLogic();
         l1.start();
     }
 }

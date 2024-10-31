@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LinearEquationApp {
+public class LinearEquationLogic {
     private Scanner s = new Scanner(System.in);
     public void start() {
         System.out.println("Welcome to the Linear Equation Calculator!");
